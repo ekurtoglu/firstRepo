@@ -5,6 +5,7 @@ public class Tester {
 		if(System.currentTimeMillis() > 0) {
 			
 		System.out.println("Test 2");
+		long newLong = System.currentTimeMillis();
 		//master
 		System.out.println("New Line");
 		long l = System.currentTimeMillis();
@@ -12,6 +13,7 @@ public class Tester {
 		System.out.println("Test 4");
 		
 		//added in b1
+		System.out.println(newLong);
 		}
 	}
 }
