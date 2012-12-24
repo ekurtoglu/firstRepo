@@ -7,8 +7,10 @@ public class Tester {
 		System.out.println("Test 2");
 		//master
 		System.out.println("New Line");
+		long newLong = System.currentTimeMillis();
 		long l = System.currentTimeMillis();
 		System.out.println(l);
+		System.out.println(newLong);
 		System.out.println("Test 4");
 		
 		//added in b1
