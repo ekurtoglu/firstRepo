@@ -5,6 +5,8 @@ public class Tester {
 		System.out.println("Test 2");
 		//master
 		System.out.println("New Line");
+		long l = System.currentTimeMillis();
+		System.out.println(l);
 		System.out.println("Test 4");
 		
 		//added in b1
