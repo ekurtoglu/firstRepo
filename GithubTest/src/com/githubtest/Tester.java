@@ -7,7 +7,6 @@ public class Tester {
 		
 		
 		System.out.println("Test 2");
-		int i = 12;
 		System.out.println("New Line");
 		
 		System.out.println("asdfasdf");
@@ -15,7 +14,6 @@ public class Tester {
 		System.out.println("Test 4");
 		
 		//added in b1
-		System.out.println(i);
 		}
 	}
 }
